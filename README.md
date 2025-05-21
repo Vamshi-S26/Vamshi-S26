@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vamshi-S26
-- 👀 I’m interested in artificial intelligence 
+- 👀 I’m interested in artificial intelligence and machine leearning 
 - 🌱 I’m currently doing Full time internship  
 - 🏬 I am looking to collaborate on Open source Projects 
 - ♾️ I love learning new technologies
